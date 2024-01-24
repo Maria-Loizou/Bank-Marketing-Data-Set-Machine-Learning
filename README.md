@@ -1,1 +1,2 @@
 # Bank-Marketing-Data-Set-Machine-Learning
+The bank marketing dataset is used. The dataset contains information collected during a bank’s direct marketing campaign which was conducted in order to convince people to sign up/purchase a term-deposit product.The general purpose this project is to develop a classification model in order to predict whether a customer will purchase/sign-up for a term deposit product/account.
